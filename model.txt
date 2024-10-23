@@ -1,0 +1,16 @@
+Database Schema
+The database schema includes the following tables:
+
+customers: Stores customer information.
+products: Stores product information.
+orders: Stores information about customer orders.
+order_items: Stores details about each item in an order.
+reviews: Stores customer reviews of products.
+
+
+Explanation
+customers: Stores details about each customer.
+products: Stores products available for sale.
+orders: Stores information about customer purchases.
+order_items: Links products to specific orders with quantities and prices.
+reviews: Allows customers to leave reviews for products.
